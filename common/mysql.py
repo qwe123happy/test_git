@@ -6,7 +6,10 @@ class DoMysql:
         user='root'
         password='123456'
         port=3306
-        self.mysql=pymysql.connect(host=host, user=user, password=password, port=port,auth_plugin='mysql_native_password')
+        self.mysql=pymysql.connect(host=host, user=user, password=password, port=port)
+        cursor = conn.cursor()
+        cursor.execute("ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456'")
+        cursor.close()
         self.cursor=self.mysql.cursor()
 
 
