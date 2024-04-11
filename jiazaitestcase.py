@@ -16,4 +16,3 @@ with open(constants.reports_path+r'\report.html','wb') as file:
                                          title='单元测试报告标题', description='单元测试报告描述',tester='陈彬')
     runner.run(suite)
 
-#dsg
