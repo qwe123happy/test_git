@@ -1,0 +1,201 @@
+'2024-05-10 16:40:01,780--[INFO]--default.py--default.log--[26行]--日志信息：断言成功，测试用例通过'
+'2024-05-10 16:40:03,007--[INFO]--default.py--default.log--[26行]--日志信息：断言成功，测试用例通过'
+'2024-05-10 16:40:03,007--[INFO]--default.py--default.log--[26行]--日志信息：断言成功，测试用例通过'
+'2024-05-10 16:40:04,253--[INFO]--default.py--default.log--[26行]--日志信息：断言成功，测试用例通过'
+'2024-05-10 16:40:04,253--[INFO]--default.py--default.log--[26行]--日志信息：断言成功，测试用例通过'
+'2024-05-10 16:40:04,253--[INFO]--default.py--default.log--[26行]--日志信息：断言成功，测试用例通过'
+'2024-05-10 16:42:25,781--[ERROR]--default.py--default.log--[30行]--日志信息：assert 0 == 3
+ +  where 0 = eval('0')'
+'2024-05-10 16:42:26,990--[ERROR]--default.py--default.log--[30行]--日志信息：assert 0 == 3
+ +  where 0 = eval('0')'
+'2024-05-10 16:42:26,990--[ERROR]--default.py--default.log--[30行]--日志信息：assert 0 == 3
+ +  where 0 = eval('0')'
+'2024-05-10 16:42:28,187--[ERROR]--default.py--default.log--[30行]--日志信息：assert 0 == 3
+ +  where 0 = eval('0')'
+'2024-05-10 16:42:28,187--[ERROR]--default.py--default.log--[30行]--日志信息：assert 0 == 3
+ +  where 0 = eval('0')'
+'2024-05-10 16:42:28,187--[ERROR]--default.py--default.log--[30行]--日志信息：assert 0 == 3
+ +  where 0 = eval('0')'
+'2024-05-10 16:44:57,747--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:44:59,057--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:44:59,057--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:45:00,264--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:45:00,264--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:45:00,264--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:49:50,277--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:49:51,458--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:49:51,458--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:49:52,640--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:49:52,640--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:49:52,640--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:57:02,322--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:57:03,545--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 16:57:04,735--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:08:06,719--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:08:07,961--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:08:07,961--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:08:09,129--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:08:09,129--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:08:09,129--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:54,768--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:54,771--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:54,771--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:56,017--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:56,017--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:56,017--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:56,019--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:56,019--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:56,019--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:56,019--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:57,245--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:57,245--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:57,245--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:57,245--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:57,245--[CRITICAL]--default.py--default.log--[32行]--日志信息：None'
+'2024-05-10 17:12:57,248--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:57,248--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:57,248--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:57,248--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:57,248--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:12:57,248--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:04,139--[ERROR]--default.py--default.log--[30行]--日志信息：Element is not clickable !!!'
+'2024-05-10 17:17:04,141--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:04,141--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:05,317--[ERROR]--default.py--default.log--[30行]--日志信息：Element is not clickable !!!'
+'2024-05-10 17:17:05,317--[ERROR]--default.py--default.log--[30行]--日志信息：Element is not clickable !!!'
+'2024-05-10 17:17:05,319--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:05,319--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:05,319--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:06,493--[ERROR]--default.py--default.log--[30行]--日志信息：Element is not clickable !!!'
+'2024-05-10 17:17:06,493--[ERROR]--default.py--default.log--[30行]--日志信息：Element is not clickable !!!'
+'2024-05-10 17:17:06,493--[ERROR]--default.py--default.log--[30行]--日志信息：Element is not clickable !!!'
+'2024-05-10 17:17:06,496--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:06,496--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:06,496--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'
+'2024-05-10 17:17:06,496--[ERROR]--default.py--default.log--[30行]--日志信息：assert '0' == '3'
+  
+  - 3
+  + 0'

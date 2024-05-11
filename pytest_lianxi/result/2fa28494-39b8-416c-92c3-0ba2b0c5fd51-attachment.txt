@@ -1,0 +1,5 @@
+ERROR    default.log:default.py:30 Element is not clickable !!!
+ERROR    default.log:default.py:30 assert '0' == '3'
+  
+  - 3
+  + 0
